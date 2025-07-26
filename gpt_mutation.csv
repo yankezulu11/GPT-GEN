@@ -1,0 +1,66 @@
+﻿Common Variant Name,SNP (rsID),Chr,Position,Genotype,Gene,"Clinical_Effect : L( Least Risk common mutation), M(medium risk), H (highest Risk)",Associated_Conditions for given Genotype and its Risk
+Triglyceride-associated,rs10033464,4,111720761,GT,GCKR,M,"Atrial fibrillation(M), cardioembolic stroke(M), hypertriglyceridemia(M)"
+-2518A>G,rs1024611,17,32579788,AA,CCL2,M,"Coronary artery disease(M), inflammation-related disorders(M)"
+Vitamin D metabolism,rs1042636,3,122003769,AA,CYP2R1,L,None significant for AA genotype
+Arg16Gly (G46A),rs1042713,5,148206440,GG,ADRB2,M,"Asthma(M), cardiovascular response to beta-agonists(M)"
+Lipoprotein(a)-associated,rs10455872,6,161010118,AA,LPA,H,"Coronary artery disease(H), myocardial infarction(H)"
+A69S (Ala69Ser),rs10490924,10,124214448,GT,ARMS2,H,Age-related macular degeneration(H)
+Folate metabolism,rs1051266,21,46957794,CC,SLC19A1,L,None significant for CC genotype
+No specific variant name,rs10519210,15,63737925,TT,TMEM57,L,None significant for TT genotype
+CYP2C9*3 (Ile359Leu),rs1057910,10,96741053,AC,CYP2C9,H,"Warfarin sensitivity(H), bleeding risk(H)"
+Y402H (Tyr402His),rs1061170,1,196659237,CT,CFH,M,"Age-related macular degeneration(M), weak CHD/stroke risk(L)"
+9p21 cardiovascular risk,rs10757274,9,22096055,GG,CDKN2B-AS1,M,"Coronary artery disease(M), type 2 diabetes(M)"
+Neurological risk,rs10821415,9,97713459,CC,C9orf72,L,None significant for CC genotype
+No specific variant name,rs10824026,10,75421208,AA,SYNM,L,None significant for AA genotype
+No specific variant name,rs11172782,12,59259628,AA,LRRC10B,L,None significant for AA genotype
+Scoliosis-associated,rs11190870,10,102979207,CT,LBX1,M,Adolescent idiopathic scoliosis(M)
+R381Q,rs11209026,1,67705958,GG,IL23R,L,None significant for GG genotype (protective for IBD)
+TPMT*3C (Tyr240Cys),rs1142345,6,18130918,TT,TPMT,H,"Thiopurine toxicity(H), leukemia treatment complications(H)"
+P582S (Pro582Ser),rs11549465,14,62207557,CC,HIF1A,L,None significant for CC genotype
+Diabetes risk,rs11558471,8,118185733,AA,SLC30A8,M,Type 2 diabetes(M)
+R46L (Arg46Leu),rs11591147,1,55505647,GG,PCSK9,L,None significant for GG genotype
+Pigmentation-associated,rs11747270,5,150258867,AG,IRF4,L,None significant for AG genotype
+Obesity risk,rs12970134,18,57884750,GG,MC4R,M,"Obesity(M), type 2 diabetes(M)"
+Hepatitis C response,rs12979860,19,39738787,CT,IFNL3,M,"Hepatitis C treatment response(M), chronic hepatitis C(M)"
+9p21 cardiovascular risk,rs1333049,9,22125503,CC,CDKN2B-AS1,M,"Coronary artery disease(M), type 2 diabetes(M)"
+Atrial fibrillation risk,rs13376333,1,154681353,CC,KCNN3,M,Atrial fibrillation(M)
+Methionine metabolism,rs1532268,5,7878179,CT,MTRR,M,"Homocysteine levels(M), neural tube defects(M)"
+BsmI (G>A),rs1544410,12,48237457,TT,VDR,L,None significant for TT genotype
+VEGF expression,rs1570360,6,43770616,AA,VEGFA,M,"Cancer progression(M), diabetic retinopathy(M)"
+No specific variant name,rs162036,5,7887873,AA,MTRR,L,None significant for AA genotype
+-511C>T,rs16944,2,112832814,GG,IL1B,M,"Inflammatory disorders(M), gastric cancer risk(M)"
+Lipid metabolism,rs17042171,4,111705768,CC,GCKR,M,"Metabolic syndrome(M), hypertriglyceridemia(M)"
+Fatty acid metabolism,rs174537,11,61570783,GT,FADS1,M,"Lipid metabolism(M), coronary artery disease(M)"
+Fatty acid metabolism,rs174547,11,61576986,CT,FADS1,M,"Lipid metabolism(M), coronary artery disease(M)"
+Fatty acid metabolism,rs174550,11,61577681,CT,FADS1,M,"Lipid metabolism(M), coronary artery disease(M)"
+Fatty acid metabolism,rs174575,11,61613312,CG,FADS2,M,"Lipid metabolism(M), cognitive development(M)"
+CYP2C9*2 (Arg144Cys),rs1799853,10,96578013,CC,CYP2C9,M,Warfarin sensitivity(M)
+No specific variant name,rs1799941,17,7633210,GG,CRHBP,L,None significant for GG genotype
+H63D (His63Asp),rs1799945,6,26037527,CG,HFE,M,Hemochromatosis(M)
+Sp1 binding site,rs1800012,17,5030995,CC,COL1A1,M,"Osteoporosis(M), fracture risk(M)"
+-509C>T,rs1800469,19,41354390,GG,TGFB1,M,"Fibrosis(M), cancer susceptibility(M)"
+Leu10Pro,rs1800470,19,41353111,AA,TGFB1,M,"Fibrosis(M), cancer susceptibility(M)"
+Gln27Glu,rs1800544,10,112998810,CG,ADRB2,M,"Asthma(M), cardiovascular response to beta-agonists(M)"
+C282Y (Cys282Tyr),rs1800562,6,26025782,GG,HFE,H,Hemochromatosis(H)
+-889C>T,rs1800587,2,112837290,AG,IL1A,M,"Inflammatory disorders(M), rheumatoid arthritis(M)"
+Hepatic lipase promoter,rs1800588,15,58439637,CC,LIPC,M,"Lipid metabolism(M), coronary artery disease(M)"
+-308G>A,rs1800629,6,31575254,GG,TNF,M,"Inflammatory disorders(M), autoimmune diseases(M)"
+-174G>C,rs1800795,7,22732008,GC,IL6,M,"Inflammatory disorders(M), cardiovascular disease(M)"
+-598G>A,rs1800796,7,22732009,AG,IL6,M,"Inflammatory disorders(M), cardiovascular disease(M)"
+A1298C,rs1801131,1,11854476,GT,MTHFR,M,"Homocysteine levels(M), neural tube defects(M)"
+C677T,rs1801133,1,11856378,GG,MTHFR,M,"Homocysteine levels(M), cardiovascular disease(M)"
+Gly389Arg,rs1801253,10,115805056,CG,ADRB1,M,"Hypertension(M), heart failure response to beta-blockers(M)"
+H131R,rs1801274,1,161479745,AG,FCGR2A,M,"Systemic lupus erythematosus(M), immune response disorders(M)"
+NAT2*6A (G590A),rs1801280,8,18257854,CT,NAT2,M,"Drug metabolism (isoniazid)(M), bladder cancer risk(M)"
+Pro12Ala,rs1801282,3,12393125,CC,PPARG,M,"Type 2 diabetes(M), insulin resistance(M)"
+A66G,rs1801394,5,7870973,AA,MTRR,M,"Homocysteine levels(M), neural tube defects(M)"
+A2756G,rs1805087,1,237048500,GG,MTR,M,"Homocysteine levels(M), neural tube defects(M)"
+-607C>A,rs1946518,11,112035458,GT,IL18,M,"Inflammatory disorders(M), coronary artery disease(M)"
+L474F,rs1979277,17,18232096,AG,SHMT1,L,None significant for AG genotype
+No specific variant name,rs199984328,2,44047175,GG,MSH2,L,None significant for GG genotype
+-634G>C,rs2010963,6,43738350,GG,VEGFA,M,"Cancer progression(M), diabetic retinopathy(M)"
+No specific variant name,rs201601231,12,111744875,GG,SH2B3,M,"Coronary artery disease(M), hypertension(M)"
+R702W,rs2066844,16,50745926,CC,NOD2,H,"Crohn’s disease(H), inflammatory bowel disease(H)"
+No specific variant name,rs2106261,16,73051620,CC,ZNF423,L,None significant for CC genotype
+Celiac disease risk,rs2187668,6,32605884,CC,HLA-DQA1,H,Celiac disease(H)
+Atrial fibrillation risk,rs2200733,4,111710169,CC,PITX2,M,Atrial fibrillation(M)
